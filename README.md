@@ -1,2 +1,2 @@
-# FbDevC-Community-Challenge-2019
+# HelpFondationVR
 ↺ 360º React App, tourism inside houses Bogotá
